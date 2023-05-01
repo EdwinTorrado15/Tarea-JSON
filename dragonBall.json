@@ -1,0 +1,72 @@
+[
+  {
+    "id": "001",
+    "image": "https://th.bing.com/th/id/OIP.gmCT4S-dXWl_2WitihYHdgHaEK?pid=ImgDet&rs=1",
+    "nombre": "Goku",
+    "raza": "Saiyan",
+    "planeta_origen": "Planeta Vegeta"
+  },
+  {
+    "id": "002",
+    "image": "https://th.bing.com/th/id/R.faa4ea8d223fab1871f6787927347007?rik=XDynUuwWS%2bE6kg&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2fa%2fb%2fb%2f673210.jpg&ehk=GDi8DcsbuZk1u6eS%2f7kdanXuUDGtYpjOisNgYDWXhfA%3d&risl=&pid=ImgRaw&r=0",
+    "nombre": "Vegeta",
+    "raza": "Saiyan",
+    "planeta_origen": "Planeta Vegeta"
+  },
+  {
+    "id": "003",
+    "image": "https://th.bing.com/th/id/R.831de60919d552e8ca5047c108510f67?rik=q6RHAIbwcLUhXA&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fDzydYNJ.jpg&ehk=EKF%2fWMwyuL3gWw4HOWy%2fqFoqllV3r7Z2UX68TXps72o%3d&risl=&pid=ImgRaw&r=0",
+    "nombre": "Piccolo",
+    "raza": "Namekiano",
+    "planeta_origen": "Namek"
+  },
+  {
+    "id": "004",
+    "image": "https://th.bing.com/th/id/R.5e2438ed9e74d0ef89765322dc9d6af8?rik=Zzb%2bu3pPtjLSvg&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fZqFU5pb.jpg&ehk=ERK7apCvH4rFEU8dgOEjeu3bTYM7brrgQwspDlWvNPQ%3d&risl=&pid=ImgRaw&r=0",
+    "nombre": "Krillin",
+    "raza": "Humano",
+    "planeta_origen": "Tierra"
+  },
+  {
+    "id": "005",
+    "image": "https://th.bing.com/th/id/R.d9b88e95e264bc54779533e8380953ea?rik=673acCZ4ltNEUg&pid=ImgRaw&r=0",
+    "nombre": "Gohan",
+    "raza": "Humano - Saiyan",
+    "planeta_origen": "Tierra"
+  },
+  {
+    "id": "006",
+    "image": "https://th.bing.com/th/id/R.62e963580b63c09215bd7a244487fc79?rik=NtnzoCbNy2CYMQ&pid=ImgRaw&r=0",
+    "nombre": "Goten",
+    "raza": "Humano - Saiyan",
+    "planeta_origen": "Tierra"
+  },
+  {
+    "id": "007",
+    "image": "https://th.bing.com/th/id/OIP.3KgxtmiviyYPTbscLLhWcQHaEM?pid=ImgDet&rs=1",
+    "nombre": "Trunks",
+    "raza": "Humano - Saiyan",
+    "planeta_origen": "Tierra"
+  },
+  {
+    "id": "008",
+    "image": "https://th.bing.com/th/id/OIP.MJnYM57WJDctd7ninT6WQgHaEK?pid=ImgDet&rs=1",
+    "nombre": "Freezer",
+    "raza": "Frost Demons",
+    "planeta_origen": "Desconocido"
+  },
+  {
+    "id": "009",
+    "image": "https://th.bing.com/th/id/R.23f30b2fbb3ba5fddd29dcc85759a696?rik=IHLWwQxz3lbiYA&pid=ImgRaw&r=0",
+    "nombre": "Majin Buu",
+    "raza": "Creado por Bibidi",
+    "planeta_origen": "Desconocido"
+  },
+  {
+    "id": "010",
+    "image": "https://th.bing.com/th/id/R.082d0c37206738ab56d6d4a63a5b1210?rik=TSggH0EAIBAr4w&pid=ImgRaw&r=0",
+    "nombre": "Cell",
+    "raza": "Creado por Dr. Gero",
+    "planeta_origen": "Tierra"
+  }
+]
