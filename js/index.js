@@ -1,7 +1,7 @@
 const btnAdd = document.querySelector(".btn-add");
 const containerCards = document.querySelector(".container-cards");
 
-const URL = "../dragonBall.json";
+const URL = "../data/dragonBall.json";
 let currentIndex = 0;
 const dataGlobal = [];
 
